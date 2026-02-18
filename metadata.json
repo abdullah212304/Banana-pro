@@ -1,0 +1,9 @@
+
+{
+  "name": "Banana pro",
+  "description": "An ultra-sleek, multimodal AI assistant powered by Gemini's 'Nano Banana' models. It features high-fidelity image generation, intelligent text reasoning, and a premium glassmorphic user interface.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
